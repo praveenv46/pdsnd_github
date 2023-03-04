@@ -1,6 +1,6 @@
 US Bikeshare Data
 
-This project analyzes data from bikesharing system provider called Motivate, which has its operations in these three major cities. These are Chicago, New York city, and Washington. The data is used to answer interesting questions such as how often bicycles are used, which is the most popular station, when people use bicycles the most, and what is the average age of bike users, and so on. The code also provide a great interative experience, meaning, the user can choose between multiple number input controls and data will be populated accordingly. 
+This project analyzes data from bikesharing system provider called Motivate, which has its operations in these three major cities. These are Chicago, New York city, and Washington. The data is used to answer interesting questions such as how often bicycles are used, which is the most popular station, when people use bicycles the most, and what is the average age of bike users, and so on. The code also provide a great interative experience, meaning, the user can choose between multiple number input controls and data will be populated accordingly. Please note that, the data is provided only for the Quarter 1 & 2 of the year 2017.
 
 Installation
 To run the code, you will need to have Python 3 installed on your computer. You will also need to install the following Python libraries:
